@@ -1,4 +1,7 @@
-### Hi there 👋
+### Live long and prosper 🖖
+
+- 🔭 I’m currently finalising [(elrond)](https://github.com/ezaspy/elrond) - python script for forensic artefact analysis...
+- 🌱 I’m currently learning how to leverage Python & PowerShell for remote forensic artefact acquisition
 
 <!--
 **ezaspy/ezaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
