@@ -1,8 +1,13 @@
-### Live long and prosper 🖖
+### Hi! 👋
+
+Experienced in Security Operatons - Log File Analysis, Digital Forensics & Incident Response.
+Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](https://docs.microsoft.com/en-gb/powershell/) to accelerate and automate the identification, collection and analysis of related indicators and artefacts.
 
 - 🔭 I’m currently finalising [elrond](https://github.com/ezaspy/elrond) - python script for forensic artefact analysis...
-- 🌱 I’m currently learning how to leverage Python & PowerShell for remote forensic artefact acquisition
-- 🌱 I’m currently learning how to build a custom web app for hosting material on [oscybershop](https://github.com/ezaspy/oscybershop)
+- 🔭 I’m currently working on [oscybershop](https://github.com/ezaspy/oscybershop) - a self contined site for all material relating to developing skills and interest in Cyber Security...
+- 🌱 I’m currently learning how to leverage Python & PowerShell for remote forensic artefact acquisition...
+
+# Live long and prosper 🖖
 
 <!--
 **ezaspy/ezaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
