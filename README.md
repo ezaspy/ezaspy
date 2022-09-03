@@ -8,7 +8,7 @@ Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](h
 
 ### ✨ Github Stats ✨
 <center>
-<table border="0" cellspacing="0" cellpadding="0">
+<table border:transparent cellspacing="0" cellpadding="0">
   <tr>
       <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaspy&layout=compact&theme=synthwave&langs_count=10" /></td>
       <td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=ezaspy&theme=synthwave&show_icons=true" /></td>
