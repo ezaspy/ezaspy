@@ -3,7 +3,7 @@
 Experienced in Security Operatons - Log File Analysis, Digital Forensics & Incident Response and  Threat Hunting.<br>
 Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](https://docs.microsoft.com/en-gb/powershell/) to accelerate and automate the identification, collection and analysis of related indicators and artefacts.
 
-- 🌱 I’m currently learning how to leverage Python & PowerShell for remote forensic artefact acquisition...
+- 🌱 I’m currently learning how to leverage Python for remote forensic artefact acquisition...
 
 ### ✨ Github Stats ✨
 <center>
