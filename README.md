@@ -10,7 +10,7 @@ Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](h
 <center>
 <table border:transparent cellspacing="0" cellpadding="0">
   <tr>
-      <td><img width="320px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaspy&layout=compact&theme=radical&langs_count=10&hide=php,css&count_private=true&" /></td>
+      <td><img width="320px" height="130px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaspy&layout=compact&theme=radical&langs_count=10&hide=php,css&count_private=true&" /></td>
       <td><img width="438px" height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=ezaspy&theme=radical&show_icons=true&hide=prs" /></td>
   </tr>
 </table>
