@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 Experienced in Security Operatons - Threat Hunting, Threat Detection, Digital Forensics & Incident Response.<br>
-Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](https://docs.microsoft.com/en-gb/powershell/) to accelerate and automate the identification, collection and analysis of related indicators and artefacts.
+Passionate about leveraging [Python](https://www.python.org/), [PowerShell](https://docs.microsoft.com/en-gb/powershell/) (and soon Rust) to accelerate and automate the identification, collection and analysis of related indicators and artefacts.
 
 - Ongoing 🔭
   - 🛍️ Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
