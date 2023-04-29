@@ -3,11 +3,15 @@
 Experienced in Security Operatons - Threat Hunting, Threat Detection, Digital Forensics & Incident Response.<br>
 Passionate about leveraging [Python](https://www.python.org/) and [PowerShell](https://docs.microsoft.com/en-gb/powershell/) to accelerate and automate the identification, collection and analysis of related indicators and artefacts.
 
-- 🛍️ Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
-- 🖥️ Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
-- 🌱 Learning how to leverage Python for remote forensic artefact acquisition...
-- Collaborating on LOOBins [textutil](https://github.com/infosecB/LOOBins/issues/62)
-- Collaborated on MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
+- Ongoing 🔭
+  - 🛍️ Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
+  - 🖥️ Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
+- Collaboration 👯
+  - 👯 LOOBins [textutil](https://github.com/infosecB/LOOBins/issues/62)
+  - 👯 MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
+- Learning 🌱
+  - 🌱 Learning how to leverage Python for remote forensic artefact acquisition...
+  - 🌱 Keen to utilise Blue skills for Red avd Purple teaming
 
 ### ✨ Github Stats ✨
 <center>
