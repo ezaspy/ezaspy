@@ -14,25 +14,25 @@
 <br><br>
 
 ### 🖥️ Experience
-#### Threat Hunting
-#### Threat Detection
-#### Digital Forensics & Incident Response
-#### Log File Analysis
+- Threat Hunting
+- Threat Detection
+- Digital Forensics & Incident Response
+- Log File Analysis
 <br>
 
 ### 🔭 In development
-#### Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
-#### Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
+- Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
+- Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
 <br>
 
 ### 👯 Collaboration
-#### LOOBins [textutil](https://github.com/infosecB/LOOBins/issues/62)
-#### MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
+- LOOBins [textutil](https://github.com/infosecB/LOOBins/issues/62)
+- MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
 <br>
 
 ### 🌱 Learning
-#### Learning how to leverage Python for remote forensic artefact acquisition...
-#### Keen to utilise Blue skills for Red avd Purple teaming
+- Learning how to leverage Python for remote forensic artefact acquisition...
+- Keen to utilise Blue skills for Red avd Purple teaming
 <br><br>
 
 ### &#x1f4c8; GitHub Stats
