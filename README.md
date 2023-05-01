@@ -11,29 +11,26 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<br><br>
+<br>
 
 ### 🖥️ Experience
 - Threat Hunting
 - Threat Detection
 - Digital Forensics & Incident Response
 - Log File Analysis
-<br>
 
 ### 🔭 In development
 - Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
 - Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
-<br>
 
 ### 👯 Collaboration
 - LOOBins [textutil](https://github.com/infosecB/LOOBins/issues/62)
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
-<br>
 
 ### 🌱 Learning
 - Learning how to leverage Python for remote forensic artefact acquisition...
 - Keen to utilise Blue skills for Red avd Purple teaming
-<br><br>
+<br>
 
 ### &#x1f4c8; GitHub Stats
 <br>
