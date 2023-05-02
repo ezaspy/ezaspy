@@ -1,5 +1,3 @@
-# 🤖 These aren't the droids you're looking for.
-
 ### 🔧 Technologies & Tools
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>&nbsp;&nbsp;
