@@ -29,7 +29,7 @@
 
 ### 🌱 Learning
 - Learning how to leverage Python for remote forensic artefact acquisition...
-- Keen to utilise Blue skills for Red avd Purple teaming
+- Keen to utilise Blue skills for Red and Purple teaming
 <br>
 
 ### &#x1f4c8; GitHub Stats
