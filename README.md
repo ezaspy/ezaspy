@@ -8,11 +8,12 @@
 <a href="https://github.com/microsoft/Kusto-Query-Language" target="_blank" rel="noreferrer"> <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Sentinel.svg" alt="kql" width="60" height="60"/> </a>&nbsp;&nbsp;
 
 <!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="60" height="60"/> </a>&nbsp;&nbsp;
+<!--<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="golang" width="60" height="60"/> </a>&nbsp;&nbsp;
+<!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="60" height="60"/> </a>&nbsp;&nbsp;
 <br><br>
-golang, docker
 -->
 
 ### 🖥️ Experience
