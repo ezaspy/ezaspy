@@ -1,6 +1,5 @@
-## ezaspy#0529
-
 ### 🔧 Technologies & Tools
+<a href="ezaspy#0529" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;||&nbsp;&nbsp;
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" alt="regex" width="60" height="60"/> </a>&nbsp;&nbsp;
