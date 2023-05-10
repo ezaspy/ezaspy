@@ -1,6 +1,6 @@
 ### 📣 Socials
 
-<a href="https://www.linkedin.com/in/itsbensmith/" target="_blank"> <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="linkedin" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/itsbensmith/" target="_blank"> <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://discord.com/users/902942742102016021" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://twitter.com/ezaspy" target="_blank"> <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="twitter" width="60" height="60"/> </a>&nbsp;&nbsp;
 
