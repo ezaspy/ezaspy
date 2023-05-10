@@ -1,5 +1,6 @@
-### Socials
+### 📣 Socials
 <a href="https://discord.com/users/902942742102016021" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://twitter.com/ezaspy" target="_blank"> <img src="https://www.svgrepo.com/show/489937/twitter.svg" alt="twitter" width="60" height="60"/> </a>&nbsp;&nbsp;
 
 ### 🔧 Technologies & Tools
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>&nbsp;&nbsp;
@@ -29,13 +30,17 @@
 - Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
 - Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
 
-### 👯 Collaboration
-- LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
+### 📄 Publications
+- Splunk app [elrond](https://splunkbase.splunk.com/app/6606/)
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
 
+### 👯 Collaboration
+- LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
+
 ### 🌱 Learning
-- Learning how to leverage Python for remote forensic artefact acquisition...
-- Keen to utilise Blue skills for Red and Purple teaming
+- Leverage Python for remote forensic artefact acquisition...
+- Utilise Blue skills for Red and Purple teaming
+- AWS and Azure Cloud infrastructure and configuration
 <br>
 
 ### &#x1f4c8; GitHub Stats
