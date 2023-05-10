@@ -1,4 +1,4 @@
-## ezaspy#0529
+### Socials
 <a href="https://discord.com/users/902942742102016021" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;
 
 ### 🔧 Technologies & Tools
