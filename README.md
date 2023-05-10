@@ -29,7 +29,7 @@
 - Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
 
 ### 👯 Collaboration
-- LOOBins [textutil](https://github.com/infosecB/LOOBins/blob/main/LOOBins/textutil.yml)
+- LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
 
 ### 🌱 Learning
