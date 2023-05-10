@@ -1,6 +1,6 @@
 ### 📣 Socials
 <a href="https://discord.com/users/902942742102016021" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;
-<a href="https://twitter.com/ezaspy" target="_blank"> <img src="https://www.svgrepo.com/show/489937/twitter.svg" alt="twitter" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://twitter.com/ezaspy" target="_blank"> <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="twitter" width="60" height="60"/> </a>&nbsp;&nbsp;
 
 ### 🔧 Technologies & Tools
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>&nbsp;&nbsp;
