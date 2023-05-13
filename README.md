@@ -1,11 +1,5 @@
-### 📣 Socials
-
-<a href="https://www.linkedin.com/in/itsbensmith/" target="_blank"> <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" width="60" height="60"/> </a>&nbsp;&nbsp;
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>&nbsp;&nbsp;
-<a href="https://discord.com/users/902942742102016021" target="_blank"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="60" height="60"/> </a>&nbsp;&nbsp;
-<a href="https://twitter.com/ezaspy" target="_blank"> <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="twitter" width="60" height="60"/> </a>&nbsp;&nbsp;
-
 ### 🔧 Technologies & Tools
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" alt="regex" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>&nbsp;&nbsp;
