@@ -36,7 +36,6 @@
 - LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
 
 ### 🌱 Learning
-- Leverage Python for remote forensic artefact acquisition...
 - Utilise Blue skills for Red and Purple teaming
 - AWS and Azure Cloud infrastructure and configuration
 <br>
