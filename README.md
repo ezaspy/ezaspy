@@ -5,6 +5,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" alt="powershell" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="60" height="60"/> </a>&nbsp;&nbsp;
+<br>
 <a href="https://www.splunk.com" target="_blank" rel="noreferrer"> <img src="https://github.com/ezaspy/oscybershop/blob/main/main/content/splunk-svgrepo-com.svg" alt="spl" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://github.com/microsoft/Kusto-Query-Language" target="_blank" rel="noreferrer"> <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Sentinel.svg" alt="kql" width="60" height="60"/> </a>&nbsp;&nbsp;
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60"/> </a>&nbsp;&nbsp;
