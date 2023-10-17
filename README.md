@@ -4,7 +4,6 @@
 <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>-->
 <!--<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="60" height="60"/> </a>-->
 <!--<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="golang" width="60" height="60"/> </a>-->
-<br>
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="60" height="60"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> </a>
 <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OOjs_UI_icon_regular-expression-progressive.svg" alt="regex" width="60" height="60"/> </a>
