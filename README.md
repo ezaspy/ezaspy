@@ -28,6 +28,7 @@
 - Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
 
 ### 📄 Publications
+- elrond Presentation [WWHF23 23 Tool Shed Demo: Elrond](https://vimeo.com/890364778)
 - Splunk app [elrond](https://splunkbase.splunk.com/app/6606/)
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
 
