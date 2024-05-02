@@ -26,7 +26,6 @@
 
 ### 🔭 In development
 - Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
-- Building and enhancing [KASM](https://github.com/ezaspy/KASM)...
 
 ### 📄 Publications
 - Splunk app [elrond](https://splunkbase.splunk.com/app/6606/)
